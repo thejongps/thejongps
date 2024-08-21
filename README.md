@@ -3,16 +3,15 @@
 - 🌱 Atualmente estou estudando lógica da programação, migrando para a área de tecnologia depois 12 anos atuando na mesma área.
 - 💞️ Gostaria de ajudar com os meus conhecimentos e ser ajudado também!
 - 📫 Meu Instagram pessoal @bjeonghoon_
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 #Linguagens que estou cursando:
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
             <div>
 <a href="https://github.com/thejongps">
