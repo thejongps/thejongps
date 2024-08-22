@@ -1,7 +1,7 @@
-- 👋 Olá, meu nome é Jeong, nascido na Coréia do Sul e criado no Brasil desde os dois anos de idade. Me sinto praticamente um brasileiro com raízes da Coréia. 
+- 👋 Olá, meu nome é Jeong, nascido na Coréia do Sul e criado no Brasil desde os dois anos de idade. 
 - 👀 Programação, JavaScript, HTML, CSS
-- 🌱 Atualmente estou estudando lógica da programação, migrando para a área de tecnologia depois 12 anos atuando na mesma área.
-- 💞️ Gostaria de ajudar com os meus conhecimentos e ser ajudado também!
+- 🌱 Após atuar 12 anos em uma área diferente, estou migrando para a área de programação.
+- 💞️ Estou disposto a contribuir com meus conhecimentos e aberto para novos aprendizados.
 - 📫 Meu Instagram pessoal @bjeonghoon_
 
 
